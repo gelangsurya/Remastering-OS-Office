@@ -1,0 +1,5 @@
+KONTRIBUTOR ANGGOTA
+
+- Gelang Surya Semedi		: install aplikasi, membuat video, menyusun laporan
+- Afibra I Cahyando		: Mengubah tampilan, pack iso
+- Muhamad Diyan			: install aplikasi, pack iso
