@@ -1,0 +1,7 @@
+TEMA	: OFFICE
+OS	: Ubuntu 18.04 Bionic Beaver
+
+NAMA KELOMPOK : OFFICEBOY
+- Gelang Surya Semedi		18.01.4239
+- Afibra I Cahyando		18.01.4261
+- Muhamad Diyan			18.01.4257
